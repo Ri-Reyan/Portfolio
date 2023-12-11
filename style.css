@@ -1,0 +1,31 @@
+body{
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin:0%;}
+
+
+h1{color:indigo;
+
+  font-size: 40px;}
+
+span{color:orange;
+
+    font-size: 50px;}
+
+h3{color: slateblue;
+  font-size: 30px;}
+
+p{color:purple;
+font-size: 30px;}
+
+.half{width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;}
+
+.half img{width: 80%;}
+
+.bg{
+    background-image: url("img/top-banner.png");
+    background-repeat: no-repeat;}
+
+section{height: 500px;}
