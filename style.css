@@ -1,4 +1,4 @@
-body{
+body{  
       font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       margin:0%;}
 
@@ -10,6 +10,7 @@ h1{color:indigo;
 span{color:orange;
 
     font-size: 50px;}
+
 
 h3{color: slateblue;
   font-size: 30px;}
@@ -24,8 +25,46 @@ font-size: 30px;}
 
 .half img{width: 80%;}
 
-.bg{
-    background-image: url("img/top-banner.png");
+.bg{ background-image: url(img/top-banner.png);
     background-repeat: no-repeat;}
 
-section{height: 500px;}
+section{height: 500px;
+
+      }
+
+      .fonts{font-family:'Courier New', Courier, monospace;
+             color: dimgray;}
+
+.lb{text-decoration:none;
+
+    font-size: 20px;
+    
+    font-family:'Times New Roman', Times, serif;
+  
+    padding: 10px 20px;
+  
+    border-radius: 5px;
+  
+    color: white;
+
+    background-image:linear-gradient( goldenrod, darkorange, tomato );
+  
+    font-weight: 600;}
+
+.me{font-size: 40px;
+
+    font-family:'Courier New', Courier, monospace;
+  
+    color: slateblue;}
+
+.full{
+      background-image: url(img/ba.png);
+      background-repeat: no-repeat;
+      background-position: right;
+
+}
+
+.ex{font-size: 50px;
+    color: goldenrod;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
